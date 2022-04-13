@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("This is my Object , Two");
         System.out.println("Hot-Fix Test");
         System.out.println("MasterFix");
+        System.out.println("HotFix");
     }
 }
